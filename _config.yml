@@ -65,7 +65,7 @@ gitalk:
   clientID: 91f07221ed5c50c150f0                            #生成的clientID
   clientSecret: 05e90d7d43a6a8b46e7268158ab17d445bb064f3    #生成的clientSecret
   repo: DavidWeiWei.github.io    #仓库名称
-  owner: Davidyw    #github用户名
+  owner: DavidWeiWei    #github用户名
   admin: Davidyw
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
@@ -77,8 +77,8 @@ gitalk:
 # ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-163662717-1'            # Format: UA-xxxxxx-xx
-ga_domain: www.davidyw.cn             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id: 'UA-163662717-1'            # Format: UA-xxxxxx-xx
+# ga_domain: www.davidyw.cn             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
